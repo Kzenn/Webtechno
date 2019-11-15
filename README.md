@@ -1,2 +1,2 @@
 # Webtechno
-# written by clement FRANCOIS--BACHELIER
+# written by clement FRANCOIS--BACHELIER & Hugo DORES
