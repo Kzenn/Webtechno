@@ -1,0 +1,21 @@
+{
+    "name": "ece-ast",
+    "description": "NodeJS project for ECE class",
+    "version": "0.1.0",
+    "license": "UNLICENSED",
+    "private": true,
+    "dependencies": {
+        "asd": "[git url]",
+        "bar": ">1.0.0",
+        "baz": "1.2.x",
+        "boo": "owner/repo",
+        "foo": "1.0.0",
+        "local": "file:/path/to/file",
+        "nodemon": "^1.19.4",
+        "tar": "http://web.site/my.tar.gz"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "dev": "./node_modules/.bin/nodemon "
+    }
+}
